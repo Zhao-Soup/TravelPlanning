@@ -1,0 +1,19 @@
+{
+    "cities": [
+      {"name": "Dehradun", "latitude": 30.3165, "longitude": 78.0322},
+      {"name": "Mussoorie", "latitude": 30.4599, "longitude": 78.0642},
+      {"name": "Rishikesh", "latitude": 30.0869, "longitude": 78.2676},
+      {"name": "Haridwar", "latitude": 29.9457, "longitude": 78.1642},
+      {"name": "Dhanaulti", "latitude": 30.4000, "longitude": 78.3801},
+      {"name": "Nainital", "latitude": 29.3803, "longitude": 79.4636}
+    ],
+    "distances": [
+      [0, 34, 45, 52, 60, 300],
+      [34, 0, 41, 48, 39, 280],
+      [45, 41, 0, 12, 47, 270],
+      [52, 48, 12, 0, 59, 290],
+      [60, 39, 47, 59, 0, 320],
+      [300, 280, 270, 290, 320, 0]
+    ]
+  }
+  
